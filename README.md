@@ -1,1 +1,1 @@
-# DLS
+Deep Learning Specialization
